@@ -35,8 +35,8 @@ BlogCraft AI is an advanced blog generation tool that leverages cutting-edge lan
 
 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/BlogCraft-AI.git
-   cd BlogCraft-AI
+   git clone https://github.com/meghanshgarjala/BLOG_GENERATION_APPLICATION.git
+   cd BLOG_GENERATION_APPLICATION
    
 2. Install the required dependencies:
    bash
